@@ -1,0 +1,46 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-image: url(https://www.thediamondstudio.com/media/uploads/spinning_diamond.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: cover;
+  color: #fff;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+h2 {
+  margin-bottom: 30px;
+}
+
+.form-group label {
+  color: #ccc;
+}
+
+.form-control {
+  background-color: #333;
+  border: none;
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #c0c0c0;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #000000;
+  border: none;
+}
+
+.register-link a {
+  color: #c0c0c0;
+}
+
+.register-link a:hover {
+  color: #fff;
+}
